@@ -98,3 +98,21 @@ a.nav-link:hover {
 .margy{
     margin-bottom: 1%;
 }
+.imgstage{
+    width: 60%;
+    margin-left: 15%;
+}
+.small1{
+    margin-left: 15%; 
+}
+.element{
+    margin-top: 5%;
+    padding: 2%;
+}
+.inf{
+    margin-left: 10%;
+    font-weight: bold;
+}
+.part h1{
+    font-size: 56px;
+}
